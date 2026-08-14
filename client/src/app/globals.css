@@ -109,8 +109,8 @@ body,
 	--theme-pink-800: #fce7f3;
 	--theme-pink-900: #fdf2f8;
 
-	--theme-white: #ffffff;
-	--theme-black: #000000;
+	--theme-white: #000000;
+	--theme-black: #ffffff;
 }
 
 /* LIGHT THEME */
@@ -203,8 +203,8 @@ body,
 	--theme-pink-800: #9d174d;
 	--theme-pink-900: #831843;
 
-	--theme-white: #030712;
-	--theme-black: #f9fafb;
+	--theme-black: #030712;
+	--theme-white: #f9fafb;
 }
 
 /* TAILWIND COLOR TOKENS */
